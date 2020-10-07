@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 const dateTo = new Date("Mar 30, 2020 09:00:00").getTime();
 
 const x = setInterval(()=>{
